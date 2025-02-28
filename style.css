@@ -46,7 +46,7 @@ navbar {
         left: 0;
         bottom: 0;
         width: 100%;
-        background-color: rgb(42, 40, 38);
+        background-color: rgb(25, 138, 35);
         color: white;
         text-align: center;
         padding-top: 1%;
@@ -64,4 +64,15 @@ navbar {
 
       .container {
         display: grid;
+      }
+
+      div.scroll-container {
+        background-color: #333;
+        overflow: auto;
+        white-space: nowrap;
+        padding: 10px;
+      }
+      
+      div.scroll-container img {
+        padding: 10px;
       }
