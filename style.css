@@ -53,8 +53,14 @@ navbar {
         padding-bottom: 1%;
       }
 
-      h4 {
-        color: rgb(109, 58, 6);
+      h3 {
+        color: rgb(6, 61, 109);
+        .cedarville-cursive-regular {
+          font-family: "Cedarville Cursive", serif;
+          font-weight: 400;
+          font-style: normal;
+        }
+        
       }
 
       strong
@@ -146,3 +152,4 @@ navbar {
           height: 80px;
       }
     }
+
