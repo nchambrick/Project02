@@ -1,0 +1,3 @@
+Hello! My name is Nicole Hambrick! 😊 I created this website to help users on their search to find suitable GIFs for a multitude of needs. The simpilicity of the design is purposeful to help maintain and emphasize ease of use. For the build, there is a main homepage, about page and contact section in order to reach out if users have any questions or concerns. Technologies used are HTML, CSS, JavaScript and SCSS.
+
+Thinking ahead to the future, there are always ways to better a site design and master useability. I would hope to continue learning more JavaScript, maximize the design using CSS and build more pages to give the site a more robust feel based on what customers need. 💻
